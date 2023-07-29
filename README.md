@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Pasupathi251
 - 👀 I’m interested in code writing
 - 🌱 I’m currently learning java full stack developer
-- 📫 How to reach me email-pasupathipasupathi251@gmail.com
+- 📫 How to reach me pasupathipasupathi251@gmail.com
